@@ -1,6 +1,6 @@
 import { SafeListing, SafeUser } from "@/app/types";
 
-import Heading from "../components/navbar/Heading";
+import Heading from "@/app/components/Heading";
 import Container from "@/app/components/Container";
 import ListingCard from "@/app/components/listings/ListingCard";
 

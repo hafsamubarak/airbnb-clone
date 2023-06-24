@@ -144,7 +144,7 @@ const Modal: React.FC<ModalProps> = ({
                   "
                   onClick={handleClose}
                 >
-                  <IoMdClose className="hover:text-red-500" size={18} />
+                  <IoMdClose size={18} />
                 </button>
                 <div className="text-lg font-semibold">
                   {title}

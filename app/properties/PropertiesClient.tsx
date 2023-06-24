@@ -7,10 +7,9 @@ import { useRouter } from "next/navigation";
 
 import { SafeListing, SafeUser } from "@/app/types";
 
-import Heading from "../components/navbar/Heading";
+import Heading from "@/app/components/Heading";
 import Container from "@/app/components/Container";
 import ListingCard from "@/app/components/listings/ListingCard";
-import { Listing } from "@prisma/client";
 
 interface PropertiesClientProps {
   listings: SafeListing[],
