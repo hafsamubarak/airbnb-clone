@@ -6,8 +6,6 @@ Features:
 - Tailwind animations and effects
 - Full responsiveness
 - Credential authentication
-- Google authentication
-- Github authentication
 - Image upload using Cloudinary CDN
 - Client form validation and handling using react-hook-form
 - Server error handling using react-toast
